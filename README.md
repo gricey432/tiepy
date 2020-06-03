@@ -5,7 +5,7 @@ TiePy is a collection of optional, progressive, build-time tools for writing mor
 
 ## Features
 
-* `@overrides`, `@final`, and `not_overrides` decorators
+* `@overrides`, `@final`, and `@not_overrides` decorators
 
 ## Usage
 
