@@ -43,7 +43,6 @@ setup(
         ]
     },
     python_requires='>=3.6',
-    license="Apache License 2.0",
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
         "Environment :: Console",
